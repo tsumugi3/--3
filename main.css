@@ -1,0 +1,431 @@
+.fullPage{
+    size: 100% ;
+    height: auto;
+    background-image: url();
+    background-size: 100% 100% ;
+    background-repeat:no-repeat;
+}
+
+.no_background{
+    background: #fff;
+}
+.home{
+    background-image: url(img/home_back.png);
+    background-size: 100% 100% ;
+    background-repeat:no-repeat;
+}
+.anime{
+    background-image: url(img/anime_back.jpeg);
+    background-size: 100% 100% ;
+    background-repeat:no-repeat;
+    height:800px;
+}
+.view{
+    height:800px;
+    background-image: url(img/back.png);
+    background-size: 100% 100% ;
+    background-repeat:no-repeat;
+}
+.rank_back{
+   
+    height:800px;
+    
+    background-image: url(img/back.png);
+    background-size: 100% 100% ;
+    background-repeat:no-repeat;
+}
+.staff_r {
+    width: 210px;
+    text-align: left;
+    vertical-align: top;
+    font-size: 16px;
+    line-height: 18px;
+    padding: 0px;
+    padding-top: 5px;
+    padding-left: 5px;
+}
+.cast_r {
+    width: 190px;
+    text-align: left;
+    vertical-align: top;
+    font-size: 16px;
+    line-height: 18px;
+    padding: 0px;
+    padding-top: 5px;
+    padding-left: 0px;
+}
+.title_main_r {
+    background: rgb(42, 40, 40);
+    width: auto;
+    height: 80px;
+    padding: 0px;
+}
+.title_cn_r {
+    color: #f0f0f0;
+    text-align: left;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 32px;
+    padding-top: 5px;
+    padding-left: 7px;
+}
+.title_jp_r {
+    color: #e0e0e0;
+    text-align: left;
+    font-size: 18px;
+    line-height: 32px;
+    padding-left: 7px;
+}
+.anime_info {
+    color: #f0f0f0;
+    text-align: left;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 32px;
+    padding-top: 5px;
+    padding-left: 7px;
+}
+.anime_song_info {
+    color: #f0f0f0;
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 26px;
+    padding-top: 5px;
+
+}
+.anime_info_back{
+    background: rgb(219, 31, 31);
+    width: auto;
+    height: 80px;
+    padding: 0px;
+}
+.img1{
+    width: 200px ;
+    height: auto;
+    margin: auto;
+}
+.logo{
+    padding-left: 20px;
+
+}
+.number.on {
+    font-size: 14px;
+    color: #999;
+    width: 18px;
+    height: 18px;
+    text-align: center;
+    line-height: 18px;
+    background-color: #fff;
+    border-radius: 2px;
+    display: inline-block;
+    width: 100%;
+    color: #fff;
+    background: rgb(217, 55, 214);
+}
+.tag_0{
+    font-size: 14px;
+    color: #999;
+    width: 18px;
+    height: 18px;
+    text-align: center;
+    line-height: 18px;
+    background: #fff;
+    border-radius: 2px;
+    display: inline-block;
+    width: 100%;
+    color: #fff;
+    background: rgb(235, 10, 93);
+}
+.tag_1{
+    font-size: 14px;
+    color: #999;
+    width: 18px;
+    height: 18px;
+    text-align: center;
+    line-height: 18px;
+    background: #fff;
+    border-radius: 2px;
+    display: inline-block;
+    width: 100%;
+    color: #fff;
+    background: rgb(241, 6, 6);
+}
+.tag_2{
+    font-size: 14px;
+    color: #999;
+    width: 18px;
+    height: 18px;
+    text-align: center;
+    line-height: 18px;
+    background: #fff;
+    border-radius: 2px;
+    display: inline-block;
+    width: 100%;
+    color: #fff;
+    background: rgb(176, 252, 12);
+}
+.tag_3{
+    font-size: 14px;
+    color: #999;
+    width: 18px;
+    height: 18px;
+    text-align: center;
+    line-height: 18px;
+    background: #fff;
+    border-radius: 2px;
+    display: inline-block;
+    width: 100%;
+    color: #fff;
+    background: rgb(36, 205, 243);
+    
+}
+.tag_4{
+    font-size: 14px;
+    color: #999;
+    width: 18px;
+    height: 18px;
+    text-align: center;
+    line-height: 18px;
+    background: #fff;
+    border-radius: 2px;
+    display: inline-block;
+    width: 100%;
+    color: #fff;
+    background: rgb(241, 209, 24);
+    
+}
+.tag_5{
+    font-size: 14px;
+    color: #999;
+    width: 18px;
+    height: 18px;
+    text-align: center;
+    line-height: 18px;
+    background: #fff;
+    border-radius: 2px;
+    display: inline-block;
+    width: 100%;
+    color: #fff;
+    background: rgb(243, 36, 88);
+    
+}
+.tag_6{
+    font-size: 14px;
+    color: #999;
+    width: 18px;
+    height: 18px;
+    text-align: center;
+    line-height: 18px;
+    background: #fff;
+    border-radius: 2px;
+    display: inline-block;
+    width: 100%;
+    color: #fff;
+    background: rgb(36, 119, 243);
+    
+}
+.tag_7{
+    font-size: 14px;
+    color: #999;
+    width: 18px;
+    height: 18px;
+    text-align: center;
+    line-height: 18px;
+    background: #fff;
+    border-radius: 2px;
+    display: inline-block;
+    width: 100%;
+    color: #fff;
+    background: rgb(157, 243, 36);
+    
+}
+.tag_8{
+    font-size: 14px;
+    color: #999;
+    width: 18px;
+    height: 18px;
+    text-align: center;
+    line-height: 18px;
+    background: #fff;
+    border-radius: 2px;
+    display: inline-block;
+    width: 100%;
+    color: #fff;
+    background: rgb(205, 36, 243);
+    
+}
+.tag_9{
+    font-size: 14px;
+    color: #999;
+    width: 18px;
+    height: 18px;
+    text-align: center;
+    line-height: 18px;
+    background: #fff;
+    border-radius: 2px;
+    display: inline-block;
+    width: 100%;
+    color: #fff;
+    background: rgb(36, 243, 139);
+    
+}
+.tag_10{
+    font-size: 14px;
+    color: #999;
+    width: 18px;
+    height: 18px;
+    text-align: center;
+    line-height: 18px;
+    background: #fff;
+    border-radius: 2px;
+    display: inline-block;
+    width: 100%;
+    color: #fff;
+    background: rgb(233, 243, 36);
+    
+}
+.tag_11{
+    font-size: 14px;
+    color: #999;
+    width: 18px;
+    height: 18px;
+    text-align: center;
+    line-height: 18px;
+    background: #fff;
+    border-radius: 2px;
+    display: inline-block;
+    width: 100%;
+    color: #fff;
+    background: rgb(36, 243, 222);
+    
+}
+.tag_12{
+    font-size: 14px;
+    color: #999;
+    width: 18px;
+    height: 18px;
+    text-align: center;
+    line-height: 18px;
+    background: #fff;
+    border-radius: 2px;
+    display: inline-block;
+    width: 100%;
+    color: #fff;
+    background: rgb(53, 36, 243);
+    
+}
+.tag_13{
+    font-size: 14px;
+    color: #999;
+    width: 18px;
+    height: 18px;
+    text-align: center;
+    line-height: 18px;
+    background: #fff;
+    border-radius: 2px;
+    display: inline-block;
+    width: 100%;
+    color: #fff;
+    background: rgb(243, 171, 36);
+    
+}
+.tag_14{
+    font-size: 14px;
+    color: #999;
+    width: 18px;
+    height: 18px;
+    text-align: center;
+    line-height: 18px;
+    background: #fff;
+    border-radius: 2px;
+    display: inline-block;
+    width: 100%;
+    color: #fff;
+    background: rgb(177, 243, 36);
+    
+}
+.tag_15{
+    font-size: 14px;
+    color: #999;
+    width: 18px;
+    height: 18px;
+    text-align: center;
+    line-height: 18px;
+    background: #fff;
+    border-radius: 2px;
+    display: inline-block;
+    width: 100%;
+    color: #fff;
+    background: rgb(243, 98, 36);
+    
+}
+.tag_16{
+    font-size: 14px;
+    color: #999;
+    width: 18px;
+    height: 18px;
+    text-align: center;
+    line-height: 18px;
+    background: #fff;
+    border-radius: 2px;
+    display: inline-block;
+    width: 100%;
+    color: #fff;
+    background: rgb(36, 119, 243);
+    
+}
+.tag_17{
+    font-size: 14px;
+    color: #999;
+    width: 18px;
+    height: 18px;
+    text-align: center;
+    line-height: 18px;
+    background: #fff;
+    border-radius: 2px;
+    display: inline-block;
+    width: 100%;
+    color: #fff;
+    background: rgb(255, 136, 0);
+    
+}
+.tag_18{
+    font-size: 14px;
+    color: #999;
+    width: 18px;
+    height: 18px;
+    text-align: center;
+    line-height: 18px;
+    background: #fff;
+    border-radius: 2px;
+    display: inline-block;
+    width: 100%;
+    color: #fff;
+    background: rgb(255, 0, 162);
+    
+}
+.rank_a{
+    background-color: transparent;
+    outline: none;
+    cursor: pointer;
+    
+}
+a, a:hover {
+    text-decoration: none;
+    color:rgb(48, 17, 226);
+}
+a {
+    color: #212121;
+    transition: color .3s;
+}
+.banner-video {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 90px;
+}
+

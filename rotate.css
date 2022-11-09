@@ -1,0 +1,23 @@
+@charset "utf-8";
+.rotation{
+    -webkit-animation:rotateImg 12s linear infinite;
+    border: 0px;
+    vertical-align: middle;
+}
+
+@keyframes rotateImg {
+  from {transform : rotate(0deg);}
+  to {transform : rotate(-360deg);}
+}
+
+@-webkit-keyframes rotateImg {
+  from {-webkit-transform : rotate(0deg);}
+  to {-webkit-transform : rotate(-360deg);}
+}
+
+.content{
+	-webkit-user-select: none;	
+	-moz-user-select: none;
+	-khtml-user-select: none;
+	user-select: none;
+}
